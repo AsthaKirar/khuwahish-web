@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Carpethen-Regular';
+    src: url('./assets/Carpethen-Regular.ttf') format('truetype'); /* Adjust the path as needed */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
